@@ -105,6 +105,18 @@
     <td><a href="https://github.com/CYBER-4RMY/ONE-Type"><b>ONE-TYPE</b></a></td>
     <td>All-in-one GUI recon tool (CLI revival in progress).</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/CYBER-4RMY/.vim"><b>VIM-Config</b></a></td>
+    <td>This is my personal vim config and shared for everyone.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CYBER-4RMY/Pen_Test"><b>PEN-TEST</b></a></td>
+    <td>My web pentest notes like a blog type post with practical video.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CYBER-4RMY/wallpapers-forme"><b>WALLPAPER-COLLECTION</b></a></td>
+    <td>My personal wallpaper collection for my desktops.</td>
+  </tr>
 </table>
 
 <hr>
