@@ -18,7 +18,7 @@
 </div>
 <hr>
 
-<h2 align="center">🧰 [SOME IDEAS] [<a href="https://cyber-4RMY.github.io/omswastra"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>]</h2>
+<h2 align="center">🧰 [SOME IDEAS] [<a href="https://cyber-4rmy.github.io/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>]</h2>
 <p align="center">
   <em>🔐 High-impact utilities engineered for modern digital warfare</em>
 </p>
