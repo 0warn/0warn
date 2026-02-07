@@ -121,6 +121,10 @@
     <td><a href="https://github.com/CYBER-4RMY/VEDHARA"><b>VEDHARA</b></a></td>
     <td>A small research on search engine and just a secure search engine build up.</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/CYBER-4RMY/procut"><b>PROCUT</b></a></td>
+    <td>Golang hash cracker. Build with a hyprtonic mode so just wait for new features :)</td>
+  </tr>
 </table>
 
 <hr>
