@@ -4,29 +4,24 @@
 </p>
 <hr>
 
-<h2 align="center" style="color: red;">⚙️ [STORAGE]</h2>
+<h2 align="center" style="color: red;">STORAGE</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,git,kali,bash,python,c,rust,go,ruby,powershell&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=arch,git,vim,bash,python,c,rust,go,ruby,powershell&theme=dark" />
 </p>
 <hr>
 
-<h2 align="center" style="color: red;">📈 [GITHUB ANALYTICS]-[<img src="https://komarev.com/ghpvc/?username=0warn&label=VISITORS&size=100&color=ff0000&style=flat-rounded" alt="Profile Views" />]</h2>
+<h2 align="center" style="color: red;">GITHUB ANALYTICS [<img src="https://komarev.com/ghpvc/?username=0warn&label=VISITORS&size=100&color=ff0000&style=flat-rounded" alt="Profile Views" />]</h2>
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0warn&theme=red&hide_border=true" alt="GitHub Streak Stats" />
+  <br><br>
   <img width="90%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0warn&theme=red" width="90%"/>
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=0warn&theme=red&no-frame=true" alt="GitHub Trophies" />
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0warn&bg_color=000000&color=ff0000&line=ff0000&point=ff0000&hide_border=true" alt="Recent Activity" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0warn&theme=red&hide_border=true" alt="GitHub Streak Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0warn&layout=compact&theme=red&hide_border=true" alt="Top Languages" />
 </div>
 <hr>
 
-<h2 align="center" style="color: red;">🧰 [SOME IDEAS] [<a href="https://0warn.github.io/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>]</h2>
+<h2 align="center" style="color: red;">SOME IDEAS [<a href="https://0warn.github.io/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>]</h2>
 <p align="center">
   <em style="color: red;">🔐 High-impact utilities engineered for modern digital warfare</em>
 </p>
