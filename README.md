@@ -153,6 +153,16 @@
     <td>Golang hash cracker. Build with a hyprtonic mode so just wait for new features :)</td>
     <td><img src="https://img.shields.io/github/stars/0warn/procut?style=flat-square&color=red" alt="GitHub stars"/></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/0warn/0scam"><b>0scam</b></a></td>
+    <td>A phising url checker using Ai & ml (in your terminal)</td>
+    <td><img src="https://img.shields.io/github/stars/0warn/0scam?style=flat-square&color=red" alt="GitHub stars"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/0warn/0scam-browse"><b>0scam-browse</b></a></td>
+    <td>0scam extension version for browser what directly safe you from the cyber attack</td>
+    <td><img src="https://img.shields.io/github/stars/0warn/0scam-browse?style=flat-square&color=red" alt="GitHub stars"/></td>
+  </tr>
 </table>
 
 <hr>
