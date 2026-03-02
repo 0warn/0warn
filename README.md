@@ -16,8 +16,6 @@
   <br><br>
   <img width="90%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0warn&bg_color=000000&color=ff0000&line=ff0000&point=ff0000&hide_border=true" alt="Recent Activity" />
-  <br><br>
 </div>
 <hr>
 
